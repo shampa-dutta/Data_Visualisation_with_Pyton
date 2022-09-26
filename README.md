@@ -1,2 +1,2 @@
-# Data_Visualisation_with_Pyton
+# Data_Visualisation_with_Python
 Dash Application
